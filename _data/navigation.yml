@@ -1,8 +1,10 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
+  # - title: "Categories"
+  #   url: /categories/
+  - title: "Speaking Events"
+    url: "/speaking/"
   - title: "Tags"
     url: /tags/
   - title: "About"
