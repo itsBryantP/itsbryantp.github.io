@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Bryant Panyarachun"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo2.jpg"
   bio    : "Software Architect - Red Hat Ansible Certified Content for IBM Z"
   links:
     # - label: "Website"
