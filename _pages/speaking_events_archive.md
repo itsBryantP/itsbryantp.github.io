@@ -18,5 +18,5 @@ author_profile: true
 | 2019 | [IBM THINK 2019](https://www.ibm.com/events/think/) | |
 | May 2018 | [IBM Z Tech U](https://www.ibm.com/training/events) | Master in IMS DevOps, z/OSMF, and MFaaS | 
 | May 2018 | [IBM Z Tech U](https://www.ibm.com/training/events) | Discover how many lives your IBM Z applications have | 
-| Mar 2018 | [SHARE](https://www.share.org/) | Hybrid Cloud and IMS- End-to-End Application Deployment
+| Mar 2018 | [SHARE](https://www.share.org/) | Hybrid Cloud and IMS- End-to-End Application Deployment |
 | Mar 2018 | [SHARE](https://www.share.org/) | IBM - Meet the Developers |
