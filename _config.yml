@@ -118,7 +118,7 @@ category_archive:
   path: /categories/
 speaking_events_archive:
   type: liquid
-  path: /speaking/
+  path: /talks/
 tag_archive:
   type: liquid
   path: /tags/

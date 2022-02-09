@@ -3,8 +3,8 @@ main:
     url: /posts/
   # - title: "Categories"
   #   url: /categories/
-  - title: "Speaking Events"
-    url: "/speaking/"
+  - title: "Public Talks"
+    url: "/talks/"
   - title: "Tags"
     url: /tags/
   - title: "About"
