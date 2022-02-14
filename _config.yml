@@ -24,6 +24,8 @@ github_username: itsbryantp
 minimal_mistakes_skin: default
 search: true
 
+google_analytics: G-H7TKVPFGBG
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
