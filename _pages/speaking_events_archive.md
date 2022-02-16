@@ -8,6 +8,7 @@ author_profile: true
 
 |Date        | Event | Session|
 |--------|-------|--------|
+| Nov 2021 | [Guide Share Europe](https://conferences.gse.org.uk/2021) | Ansible for IBM Z. Lets get started! \| [Slides](https://www.google.com/imgres?imgurl=x-raw-image%3A%2F%2F%2F7396a126e4496018b7f925a2f5c336781dc0c14ab47f2fbf299b07da944c32ca&imgrefurl=https%3A%2F%2Fconferences.gse.org.uk%2F2021%2Fpresentations%2F4AQ.pdf&tbnid=GGBJ5CahlnPgVM&vet=12ahUKEwie9Y6_1IP2AhVkIH0KHcylDS4QMygQegQIARBO..i&docid=mw2IFItJHnOHIM&w=1600&h=900&itg=1&q=bryant%20panyarachun&hl=en&ved=2ahUKEwie9Y6_1IP2AhVkIH0KHcylDS4QMygQegQIARBO) \| [Replay](https://conferences.gse.org.uk/2021/presentations/2156/video) | 
 | May 2021 | [AnsibleFest](https://www.ansible.com/ansiblefest) | [Ansible Automation for Enterprise clients](https://events.ansiblefest.redhat.com/widget/redhat/ansible21/sessioncatalog/session/1625005707749001G6N2) | 
 | Mar 2021 | [SHARE](https://www.share.org/) | [CICS DevOps with Ansible](https://www.share.org/Events/Past-Events/Proceedings/Proceeding-Details/cics-devops-with-ansible-2) |
 | May 2021 | [IBM THINK 2021](https://www.ibm.com/events/think/) | Masterclass - Driving developer agility through hybrid cloud with IBM Z \| [Replay](https://developer.ibm.com/articles/driving-developer-agility-through-hybrid-cloud-with-ibm-z/) | 
