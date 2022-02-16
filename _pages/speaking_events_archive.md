@@ -16,7 +16,7 @@ author_profile: true
 | Aug 2020   | [SHARE](https://www.share.org/) | Infrastructure as Code with Ansible | 
 | Aug 2020 | New to Z | Ansible for z/OS \| [Replay](https://community.ibm.com/community/user/ibmz-and-linuxone/viewdocument/ansible-for-zos-with-bryant-panyar?CommunityKey=53d759c6-31ad-4ebd-b518-0696ea821f14&tab=librarydocuments) |
 | May 2020 | [IBM THINK 2020](https://www.ibm.com/events/think/) | Lab - Introducing Ansible Playbooks for automating with z/OS | 
-| May 2020 | [IBM THINK 2020](https://www.ibm.com/events/think/) | Automate Your Mainframe z/OS Processes with Ansible
+| May 2020 | [IBM THINK 2020](https://www.ibm.com/events/think/) | Automate Your Mainframe z/OS Processes with Ansible \| [Slides](https://docplayer.net/186307136-Automate-your-mainframe-z-os-processes-with-ansible-bryant-panyarachun-ibm-software-engineer-think-2020-6760-may-05-2020-2020-ibm-corporation.html) | 
 | 2019 | [IBM THINK 2019](https://www.ibm.com/events/think/) | |
 | May 2018 | [IBM Z Tech U](https://www.ibm.com/training/events) | Master in IMS DevOps, z/OSMF, and MFaaS | 
 | May 2018 | [IBM Z Tech U](https://www.ibm.com/training/events) | Discover how many lives your IBM Z applications have | 
