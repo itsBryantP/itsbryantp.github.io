@@ -20,7 +20,7 @@ author_profile: true
 | 2019 | [IBM THINK 2019](https://www.ibm.com/events/think/) | |
 | May 2018 | [IBM Z Tech U](https://www.ibm.com/training/events) | Master in IMS DevOps, z/OSMF, and MFaaS | 
 | May 2018 | [IBM Z Tech U](https://www.ibm.com/training/events) | Discover how many lives your IBM Z applications have | 
-| Mar 2018 | [SHARE](https://www.share.org/) | Hybrid Cloud and IMS- End-to-End Application Deployment |
+| Mar 2018 | [SHARE](https://www.share.org/) | Live: Hybrid Cloud and IMS: End-to-End Application Deployment \| [Event](https://www.share.org/Events/Past-Events/Proceedings/Proceeding-Details/live-hybrid-cloud-and-ims-end-to-end-application-deployment) |
 | Mar 2018 | [SHARE](https://www.share.org/) | IBM - Meet the Developers |
 | Mar 2018 | [SHARE](https://www.share.org/) | Meet the Future of Z! \| [Event](https://www.share.org/Events/Past-Events/Proceedings/Proceeding-Details/meet-the-future-of-z)|
 | Apr 2017 | [InterConnect](https://www.ibm.com/blogs/cloud-computing/tag/ibm-interconnect-2017/) | Could You Use a Pop-up IMS Environment? Or a Pop-Up IMS Database? \| [Slides](https://www.slideshare.net/IBMIMS/toronto-rug-april-2017ims-zosmf-75188570) | 
