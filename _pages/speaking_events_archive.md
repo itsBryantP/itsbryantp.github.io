@@ -22,7 +22,7 @@ author_profile: true
 | May 2018 | [IBM Z Tech U](https://www.ibm.com/training/events) | Discover how many lives your IBM Z applications have | 
 | Mar 2018 | [SHARE](https://www.share.org/) | Hybrid Cloud and IMS- End-to-End Application Deployment |
 | Mar 2018 | [SHARE](https://www.share.org/) | IBM - Meet the Developers |
-| Mar 2018 | [SHARE](https://www.share.org/) | Meet the Future of Z! |
+| Mar 2018 | [SHARE](https://www.share.org/) | Meet the Future of Z! \| [Event](https://www.share.org/Events/Past-Events/Proceedings/Proceeding-Details/meet-the-future-of-z)|
 | Apr 2017 | [InterConnect](https://www.ibm.com/blogs/cloud-computing/tag/ibm-interconnect-2017/) | Could You Use a Pop-up IMS Environment? Or a Pop-Up IMS Database? \| [Slides](https://www.slideshare.net/IBMIMS/toronto-rug-april-2017ims-zosmf-75188570) | 
 | Aug 2015 | [SHARE](https://www.share.org/) | Essentials of IBM Installation Manager for z/OS \| [Event](https://share.confex.com/share/125/webprogram/Session17364.html) \| [slides](https://share.confex.com/share/125/webprogram/Handout/Session17364/17364%20-%20Installation%20Manager.pdf)|
 | Mar 2015 | [SHARE](https://www.share.org/) | IBM Installation Manager for z/OS System Programmers: Web-based Installs, Fix Packs, and How iFixes Really Work \| [Event](https://www.share.org/Events/Past-Events/Proceedings/Proceeding-Details/ibm-installation-manager-for-zos-system-programmers-web-based-installs-fix-packs-and-how-ifixes-really-work) |
