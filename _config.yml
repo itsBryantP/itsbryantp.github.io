@@ -66,7 +66,7 @@ plugins:
 author:
   name   : "Bryant Panyarachun"
   avatar : "/assets/images/bio-photo2.jpg"
-  bio    : "IBM Software Architect - Red Hat Ansible Certified Content for IBM Z"
+  bio    : "Chief Architect for Ansible for z/OS Ecosystem"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
