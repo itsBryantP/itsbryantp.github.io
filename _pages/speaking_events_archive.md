@@ -9,6 +9,7 @@ author_profile: true
 |Date        | Event | Session|
 |--------|-------|--------|
 | Feb 2023 | [GSE UK](https://conferences.gse.org.uk/2023V) | Ansible and Cloud Native Development: the easy answer to automating and modernizing your IMS environment | 
+| Nov 2022 | [Webinar](https://event.on24.com/wcc/r/3941726/38D285CE2E669C26A84E60C9FEA49C5B) | Security considerations when setting up for Ansible environment for z/OS | 
 | Aug 2022 | [SHARE](https://www.share.org/) | [Securing Ansible from Beginning to End](https://www.share.org/Events/SHARE-Columbus-2022/Technical-Agenda?session=278e831b-8d71-45f6-9fac-abcae6234873) | 
 | Aug 2022 | [SHARE](https://www.share.org/) | [Ansible and IMS: Automate IMS with Red Hat Ansible Certified Content for IBM Z](https://www.share.org/Events/SHARE-Columbus-2022/Technical-Agenda?session=88adf409-1d93-4249-aaa4-06445f81902e) | 
 | Jun 2022 | [GSE Nordic](https://gse-nordic.org/2022-stockholm) | Ansible for IBM Z \| [Event](https://gse-nordic.org/conferences/329-2022-general-interest-performance-track/1283-s502-xxxxxxx) \| [Slides](https://gse-nordic.org/images/2022/Download/S502%20-%20Ansible%20on%20zOS.pdf) | 
