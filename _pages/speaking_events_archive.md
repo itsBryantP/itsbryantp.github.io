@@ -8,8 +8,8 @@ author_profile: true
 
 |Date        | Event | Session|
 |--------|-------|--------|
+| Mar 2023 | [Webinar](https://event.on24.com/wcc/r/4074492/578DF1EA0688180185E0C464DDF8401B) | Modernizing IMS: Cloud Native IMS Provisioning and Application Development with the IBM Z and Cloud Modernization Stack | \
 | Mar 2023 | [Red Hat Webcast](https://www.youtube.com/@redhat) | GitOps Guide to the Galaxy Episode 56: Ansible on Z Systems with IBM \| [Youtube](https://youtu.be/ZiIuu0spnp0) \| [Twitch](https://www.twitch.tv/videos/1773480918) | 
-| Mar 2023 | [Webinar](https://event.on24.com/wcc/r/4074492/578DF1EA0688180185E0C464DDF8401B) | Modernizing IMS: Cloud Native IMS Provisioning and Application Development with the IBM Z and Cloud Modernization Stack | 
 | Feb 2023 | [GSE UK](https://conferences.gse.org.uk/2023V) | Ansible and Cloud Native Development: the easy answer to automating and modernizing your IMS environment | 
 | Nov 2022 | [Webinar](https://event.on24.com/wcc/r/3941726/38D285CE2E669C26A84E60C9FEA49C5B) | Security considerations when setting up for Ansible environment for z/OS | 
 | Aug 2022 | [SHARE](https://www.share.org/) | [Securing Ansible from Beginning to End](https://www.share.org/Events/SHARE-Columbus-2022/Technical-Agenda?session=278e831b-8d71-45f6-9fac-abcae6234873) | 
