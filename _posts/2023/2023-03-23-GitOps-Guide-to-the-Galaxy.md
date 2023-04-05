@@ -1,5 +1,5 @@
 ---
-title: "GitOps Guide to the Galaxy Episode 56 \| Ansible on zSystems with IBM "
+title: "GitOps Guide to the Galaxy Episode 56: Ansible on zSystems with IBM "
 categories:
   - Blog
 tags:
