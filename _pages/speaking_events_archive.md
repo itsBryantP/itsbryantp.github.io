@@ -8,6 +8,7 @@ author_profile: true
 
 |Date        | Event | Session|
 |--------|-------|--------|
+| May 2023 | [Webinar](https://teams.microsoft.com/registration/NQzrC7uc60-Z5VieQVx5RA,FYaj-el39kWRX4aa89qHvg,AckRLAj1mU6SUjlHLxnFiA,konDyAFz80uNWW9mAR7JRQ,Y_dNRpCZ6Eus--EOueG75Q,u_8oxoTTzEiNTtHQeEVY7g?mode=read&tenantId=0beb0c35-9cbb-4feb-99e5-589e415c7944&skipauthstrap=1) | Standardization of Automation Across the Enterprise with Ansible for z/OS | 
 | Mar 2023 | [Webinar](https://event.on24.com/wcc/r/4074492/578DF1EA0688180185E0C464DDF8401B) | Modernizing IMS: Cloud Native IMS Provisioning and Application Development with the IBM Z and Cloud Modernization Stack | 
 | Mar 2023 | [Red Hat Webcast](https://www.youtube.com/@redhat) | GitOps Guide to the Galaxy Episode 56: Ansible on Z Systems with IBM \| [Youtube](https://youtu.be/ZiIuu0spnp0) \| [Twitch](https://www.twitch.tv/videos/1773480918) | 
 | Feb 2023 | [GSE UK](https://conferences.gse.org.uk/2023V) | Ansible and Cloud Native Development: the easy answer to automating and modernizing your IMS environment | 
