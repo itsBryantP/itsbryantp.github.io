@@ -8,6 +8,7 @@ author_profile: true
 
 |Date        | Event | Session|
 |--------|-------|--------|
+| Nov 2023 | [Podcast](https://www.podbean.com/media/share/pb-tjnj6-14f9a37?utm_campaign=admin_episode&utm_medium=dlink&utm_source=episode_share) | Automating z/VM with Ansible | 
 | May 2023 | [Webinar](https://teams.microsoft.com/registration/NQzrC7uc60-Z5VieQVx5RA,FYaj-el39kWRX4aa89qHvg,AckRLAj1mU6SUjlHLxnFiA,konDyAFz80uNWW9mAR7JRQ,Y_dNRpCZ6Eus--EOueG75Q,u_8oxoTTzEiNTtHQeEVY7g?mode=read&tenantId=0beb0c35-9cbb-4feb-99e5-589e415c7944&skipauthstrap=1) | Standardization of Automation Across the Enterprise with Ansible for z/OS | 
 | Mar 2023 | [Webinar](https://event.on24.com/wcc/r/4074492/578DF1EA0688180185E0C464DDF8401B) | Modernizing IMS: Cloud Native IMS Provisioning and Application Development with the IBM Z and Cloud Modernization Stack | 
 | Mar 2023 | [Red Hat Webcast](https://www.youtube.com/@redhat) | GitOps Guide to the Galaxy Episode 56: Ansible on Z Systems with IBM \| [Youtube](https://youtu.be/ZiIuu0spnp0) \| [Twitch](https://www.twitch.tv/videos/1773480918) | 
@@ -16,6 +17,7 @@ author_profile: true
 | Aug 2022 | [SHARE](https://www.share.org/) | [Securing Ansible from Beginning to End](https://www.share.org/Events/SHARE-Columbus-2022/Technical-Agenda?session=278e831b-8d71-45f6-9fac-abcae6234873) | 
 | Aug 2022 | [SHARE](https://www.share.org/) | [Ansible and IMS: Automate IMS with Red Hat Ansible Certified Content for IBM Z](https://www.share.org/Events/SHARE-Columbus-2022/Technical-Agenda?session=88adf409-1d93-4249-aaa4-06445f81902e) | 
 | Jun 2022 | [GSE Nordic](https://gse-nordic.org/2022-stockholm) | Ansible for IBM Z \| [Event](https://gse-nordic.org/conferences/329-2022-general-interest-performance-track/1283-s502-xxxxxxx) \| [Slides](https://gse-nordic.org/images/2022/Download/S502%20-%20Ansible%20on%20zOS.pdf) | 
+| Mar 2022 | [Podcast](https://podcasters.spotify.com/pod/show/level99/episodes/Automating-IBM-Z-Mainframes-with-Ansible-e1g4516) | Automating IBM Z Mainframes with Ansible | 
 | Nov 2021 | [Guide Share Europe](https://conferences.gse.org.uk/2021) | Ansible for IBM Z. Lets get started! \| [Slides](https://www.google.com/imgres?imgurl=x-raw-image%3A%2F%2F%2F7396a126e4496018b7f925a2f5c336781dc0c14ab47f2fbf299b07da944c32ca&imgrefurl=https%3A%2F%2Fconferences.gse.org.uk%2F2021%2Fpresentations%2F4AQ.pdf&tbnid=GGBJ5CahlnPgVM&vet=12ahUKEwie9Y6_1IP2AhVkIH0KHcylDS4QMygQegQIARBO..i&docid=mw2IFItJHnOHIM&w=1600&h=900&itg=1&q=bryant%20panyarachun&hl=en&ved=2ahUKEwie9Y6_1IP2AhVkIH0KHcylDS4QMygQegQIARBO) \| [Replay](https://conferences.gse.org.uk/2021/presentations/2156/video) (Requires GSE account for access)| 
 | May 2021 | [AnsibleFest](https://www.ansible.com/ansiblefest) | [Ansible Automation for Enterprise clients](https://events.ansiblefest.redhat.com/widget/redhat/ansible21/sessioncatalog/session/1625005707749001G6N2) | 
 | Mar 2021 | [SHARE](https://www.share.org/) | [CICS DevOps with Ansible](https://www.share.org/Events/Past-Events/Proceedings/Proceeding-Details/cics-devops-with-ansible-2) |
