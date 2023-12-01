@@ -338,3 +338,6 @@ In summary, its definitely possible to use `ansible-navigator` without Docker De
 
 ### Tips
 - Directories will need to be explicitely mounted for `ansible-navigator` and the EEs to accesss, so you may choose to mount a parent directory that holds all of your Ansible playbooks. 
+
+
+Many thanks to Carlos Nunez for the simple to follow instructions for installing Lima with Docker. 
