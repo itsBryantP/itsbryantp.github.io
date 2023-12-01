@@ -161,13 +161,13 @@ Going into the `:images` option you can see there is a default image called `cre
 Inspecting the `creator-ee` image with option `0` lists a number of options of details that you can inspect about the image. By selecting option `1` you should see the following error:
 
 ```
-                                  Warning
-                                  ─────────────────────────────────────────────────────────────────────
-                                  humph. Something went really wrong while introspecting the image.
-                                  Details have been added to the log file
-                                  [HINT] Please log an issue about this one, it shouldn't have happened
-                                  ─────────────────────────────────────────────────────────────────────
-                                                                                                  Ok 
+  Warning
+  ─────────────────────────────────────────────────────────────────────
+  humph. Something went really wrong while introspecting the image.
+  Details have been added to the log file
+  [HINT] Please log an issue about this one, it shouldn't have happened
+  ─────────────────────────────────────────────────────────────────────
+                                                                    Ok 
 ```
 
 There will be a `ansible-navigator.log` file generated in your working directory which should show something along the lines of:
@@ -255,11 +255,11 @@ Note, by default `ansible-navigator` is configured to use the `creator-ee`. When
 Immediately, you should see that the playbook runs without completing any tasks
 
 ```
-                                Warning
-                                ────────────────────────────────────────────────────────────────────────────
-                                The playbook completed without tasks. Redirecting to ':stdout' for review.
-                                ────────────────────────────────────────────────────────────────────────────
-                                                                                                       Ok 
+  Warning
+  ────────────────────────────────────────────────────────────────────────────
+  The playbook completed without tasks. Redirecting to ':stdout' for review.
+  ────────────────────────────────────────────────────────────────────────────
+                                                                         Ok 
 ```
 
 And by pressing enter you should see something like:
