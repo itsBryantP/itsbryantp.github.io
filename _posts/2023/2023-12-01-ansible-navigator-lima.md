@@ -18,7 +18,7 @@ tags:
 Currently Ansible Navigator for MacOS [requires Docker Desktop](https://ansible.readthedocs.io/projects/navigator/installation/#requirements-macos) and doesn't support Podman due to other technical contraints on how podman handles mounting native folders on MacOS. At the time of writing this blog there is an open issue in the ansible-navigator repo for podman support [issue 1259](https://github.com/ansible/ansible-navigator/issues/1259). Like me, if you're unable to use Docker Desktop you may be looking for an alternative way to run Docker containers on MacOS, and with a general search you'll find approaches such as using Lima or Vagrant. [Lima](https://github.com/lima-vm/lima), which stands for Linux on Mac, is a lightweight solution for running Linux VMs on MacOS, specifically with containerized applications, although it can also be used for non-container applications too. 
 
 ## Installing Lima
-I used this [blog post](https://blog.carlosnunez.me/post/docker-desktop-alternative-for-mac/) by Carlos Nunez as a guide for installing Lima on my laptop.
+I used this [blog post](https://blog.carlosnunez.me/post/docker-desktop-alternative-for-mac/) by [Carlos Nunez](https://www.linkedin.com/in/carlosinhtx/) as a guide for installing Lima on my laptop.
 
 I'll include a summary of the commands that I ran, but I'd recommend following Carlos's blog for a detailed tutorial 
 
