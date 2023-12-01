@@ -270,6 +270,10 @@ And by pressing enter you should see something like:
 
 Again, this is due to the EE container not being able to access the working directory where our playbook is located, so we'll need to go back and update the `mounts:` section in the `~/.lima/lima.yaml` file and restart Docker again.
 
+```
+- location: "~/Downloads/navigator-test"
+    writable: false
+```
 after doing that and re-running `ansible-navigator run ping.yml -i inventory.yml` you should see it execute successfully and be able to see that it completed 2 tasks and drill down into the play for more details.
 
 ```
