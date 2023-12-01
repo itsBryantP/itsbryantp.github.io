@@ -1,5 +1,6 @@
 ---
-title: "Running Ansible Navigator on MacOS without Docker Desktop "
+title: "Running Ansible Navigator on MacOS without Docker Desktop"
+classes: wide
 categories:
   - Blog
 tags:
