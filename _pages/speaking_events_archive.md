@@ -8,6 +8,8 @@ author_profile: true
 
 |Date        | Event | Session|
 |--------|-------|--------|
+| Apr 2024 | [Webinar](https://ibm.biz/automation-for-ibm-z) | How generative AI is enabling the future of automation for IBM Z | 
+| Mar 2024 | [IBM TechXchange](https://www.ibm.com/events/reg/flow/ibm/3rt232mb/landing/page/landing) | AI Infused Automation on Z with Red Hat Ansible Lightspeed | 
 | Mar 2024 | [SHARE](https://www.share.org/) | [Updates on All New Capabilities for Automating IBM Z with Ansible](https://www.share.org/Events/SHARE-Orlando-2024/Technical-Agenda?session=391946b8-0bba-4de0-a07a-f2cfacf2993b) | 
 | Nov 2023 | [Podcast](https://www.podbean.com/media/share/pb-tjnj6-14f9a37?utm_campaign=admin_episode&utm_medium=dlink&utm_source=episode_share) | Automating z/VM with Ansible | 
 | May 2023 | [Webinar](https://teams.microsoft.com/registration/NQzrC7uc60-Z5VieQVx5RA,FYaj-el39kWRX4aa89qHvg,AckRLAj1mU6SUjlHLxnFiA,konDyAFz80uNWW9mAR7JRQ,Y_dNRpCZ6Eus--EOueG75Q,u_8oxoTTzEiNTtHQeEVY7g?mode=read&tenantId=0beb0c35-9cbb-4feb-99e5-589e415c7944&skipauthstrap=1) | Standardization of Automation Across the Enterprise with Ansible for z/OS | 
