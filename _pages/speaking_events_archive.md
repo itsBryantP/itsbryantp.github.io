@@ -8,6 +8,7 @@ author_profile: true
 
 |Date        | Event | Session|
 |--------|-------|--------|
+| Mar 2025 | [Webinar](https://ibm-zcouncil.com/events/ims-mar27-25/) | IMS Insight Series – Ansible – What it is and How it can Help in Automating your work with IMS | 
 | Apr 2024 | [Webinar](https://ibm.biz/automation-for-ibm-z) | How generative AI is enabling the future of automation for IBM Z | 
 | Mar 2024 | [IBM TechXchange](https://www.ibm.com/events/reg/flow/ibm/3rt232mb/landing/page/landing) | AI Infused Automation on Z with Red Hat Ansible Lightspeed | 
 | Mar 2024 | [SHARE](https://www.share.org/) | [Updates on All New Capabilities for Automating IBM Z with Ansible](https://www.share.org/Events/SHARE-Orlando-2024/Technical-Agenda?session=391946b8-0bba-4de0-a07a-f2cfacf2993b) | 
