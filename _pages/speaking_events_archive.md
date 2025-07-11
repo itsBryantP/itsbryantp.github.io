@@ -8,6 +8,7 @@ author_profile: true
 
 |Date        | Event | Session|
 |--------|-------|--------|
+| Jun 2025 | [IBM Hursley Summit 2025](https://www.ibm.com/events/reg/flow/ibm/u3bx3fmb/landing/page/landing) | Infrastructure & Application lifecycle management: rise to the challenge with Terraform + Ansible + Z  | 
 | Mar 2025 | [Webinar](https://ibm-zcouncil.com/events/ims-mar27-25/) | IMS Insight Series – Ansible – What it is and How it can Help in Automating your work with IMS | 
 | Apr 2024 | [Webinar](https://ibm.biz/automation-for-ibm-z) | How generative AI is enabling the future of automation for IBM Z | 
 | Mar 2024 | [IBM TechXchange](https://www.ibm.com/events/reg/flow/ibm/3rt232mb/landing/page/landing) | AI Infused Automation on Z with Red Hat Ansible Lightspeed | 
