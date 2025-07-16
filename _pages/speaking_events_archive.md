@@ -8,6 +8,7 @@ author_profile: true
 
 |Date        | Event | Session|
 |--------|-------|--------|
+| Jul 2025 | [Webinar](https://lnkd.in/g8UFnqxK) | Terraform for Z and LinuxONE: Simplify infrastructure management at scale | 
 | Jun 2025 | [IBM Hursley Summit 2025](https://www.ibm.com/events/reg/flow/ibm/u3bx3fmb/landing/page/landing) | Infrastructure & Application lifecycle management: rise to the challenge with Terraform + Ansible + Z  | 
 | Mar 2025 | [Webinar](https://ibm-zcouncil.com/events/ims-mar27-25/) | IMS Insight Series – Ansible – What it is and How it can Help in Automating your work with IMS | 
 | Apr 2024 | [Webinar](https://ibm.biz/automation-for-ibm-z) | How generative AI is enabling the future of automation for IBM Z | 
